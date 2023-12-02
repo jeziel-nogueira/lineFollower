@@ -3,7 +3,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 
-## Projeto desenvolvido para competição na Robocore 2022
+## Projeto desenvolvido para competição na Robocore 2023
 <p>
   Robo seguidor de linha autonomo com controle PID
 </p>
