@@ -24,3 +24,8 @@
 
 ![WhatsApp Image 2023-07-26 at 12 42 04 PM](https://github.com/jeziel-nogueira/lineFollower/assets/119265934/5d92336b-3e6a-4b5e-a484-8e48ac2aa506)
 ![WhatsApp Image 2023-07-31 at 10 30 22 AM](https://github.com/jeziel-nogueira/lineFollower/assets/119265934/d164c1f0-2fb2-4796-b243-8ca1f189bf80)
+
+### Agradecimentos:
++ Prof. Luiz
++ João
++ Equipe Wickedbotz
